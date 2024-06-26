@@ -1,3 +1,5 @@
+NUGET UPDATE to v7
+
 Hi there,
 more info coming soon
 Another change made in master XXXX
