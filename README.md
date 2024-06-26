@@ -1,6 +1,6 @@
 Hi there,
 more info coming soon
-Another change made in master
+Another change made in master XXXX
 Second master change
 
 Change from hotfix
