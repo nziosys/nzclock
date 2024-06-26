@@ -1,4 +1,5 @@
 NUGET UPDATE to v7
+.NET 7
 
 Hi there,
 more info coming soon
