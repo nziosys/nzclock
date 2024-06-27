@@ -7,6 +7,7 @@ Another change made in master XXXX
 Second master change
 
 m1.1
+m1.2
 
 Change from hotfix
 Bit more info
