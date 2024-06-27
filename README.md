@@ -7,7 +7,7 @@ b2.3
 
 Hi there, MASTER CHANGE
 more info coming soon
-Another change made in master XXXX
+Another change made in master XXXX M1
 Second master change
 
 m1.1
